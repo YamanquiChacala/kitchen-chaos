@@ -76,3 +76,7 @@ crashlytics-build.properties
 
 # Backup files
 *.blend?
+
+# Project Files
+/Assets/_Assets*
+/Assets/CodeMonkeyFree*
