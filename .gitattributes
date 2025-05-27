@@ -114,6 +114,7 @@ Assets/Plugins/**       linguist-vendored
 *.tiff                  lfs
 *.webp                  lfs
 *.kra                   lfs
+*.xcf                   lfs
 # Compressed Archive
 *.7z                    lfs
 *.bz2                   lfs
@@ -121,6 +122,7 @@ Assets/Plugins/**       linguist-vendored
 *.rar                   lfs
 *.tar                   lfs
 *.zip                   lfs
+*.xz                    lfs
 # Compiled Dynamic Library
 *.dll                   lfs
 *.pdb                   lfs
